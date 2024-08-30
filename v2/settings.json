@@ -1,0 +1,46 @@
+{
+  "editor.fontFamily": "'JetBrains Mono',monospace",
+  // "editor.fontLigatures": true,
+  "workbench.sideBar.location": "right",
+  "terminal.integrated.fontFamily": "'CaskaydiaCove Nerd Font'",
+  "terminal.integrated.fontWeight": "normal",
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "MacOS Modern Dark - Xcode Default",
+  "editor.lineHeight": 25,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.statusBar.visible": false,
+  "workbench.iconTheme": "eq-material-theme-icons-light",
+  "workbench.productIconTheme": "macos-modern",
+  "editor.formatOnSave": true,
+  "files.autoSaveWhenNoErrors": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "workbench.startupEditor": "none",
+  "editor.fontVariations": false,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "files.autoSave": "onWindowChange",
+  "editor.wordWrap": "on",
+  "editor.stickyScroll.enabled": false,
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'ss07', 'ss08', 'calt', 'dlig'",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "comment", "comment.block", "comment.line"],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "vscode_custom_css.imports": [
+    "file:///D:/meoww/xcode/myCodeSettings/v2/style.css"
+  ],
+  "workbench.editor.defaultBinaryEditor": "default",
+  "window.menuBarVisibility": "toggle",
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  "extensions.experimental.deferredStartupFinishedActivation": true,
+  "workbench.tips.enabled": false
+}
